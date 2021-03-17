@@ -1,7 +1,7 @@
 # QuickCriptographyAlgorithm
 Made this for a school project
 
-With this you can choose what chars you want to include, create a custom key!
+With this you can choose what chars you want to include and create a custom key!
 
 <strong> Input Example: </strong> <br>
 DESLIGA O FREEZER A NOTCHE!
